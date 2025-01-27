@@ -1,7 +1,6 @@
 package com.cerd.gamelist.dto;
 
 import com.cerd.gamelist.entities.Game;
-import jakarta.persistence.Column;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
